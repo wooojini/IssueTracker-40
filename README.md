@@ -3,6 +3,10 @@
 
 ![image](https://user-images.githubusercontent.com/33643752/97582420-10aa8200-1a39-11eb-8a30-bddcab3b8a8f.png)
 
+![image](https://user-images.githubusercontent.com/32856129/99913581-d08aa680-2d3b-11eb-862c-e0fb8c8dfe4c.JPG)
+
+
+
 <p align="middle">
 <!-- tag -->
   <a href="https://github.com/boostcamp-2020/IssueTracker-40/releases" target="_blank">
